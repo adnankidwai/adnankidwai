@@ -1,6 +1,8 @@
 ### Hello 👋, my name is Adnan.
 
-I am an iOS Developer from Long Island, NY📍
+I am from Long Island, NY📍
+
+Currently learning Swift and iOS Development.
 
 <!--
 **adnankidwai/adnankidwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
